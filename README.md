@@ -1,4 +1,4 @@
 # gittrial
 this is my first git repo
 <br/>
-Author-Saksham doda
+Author-Saksham (NIT jalandhar)
